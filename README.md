@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Laravel and React,Flutter,
 - 📫 How to reach me 
 - You can reach me at nayanhossainbd.786@gmail.com
-- You can Knonk Me At https://nayanhossain.netlify.app/
-<img src="https://nayanhossain.netlify.app/img/jpg/profile.jpg" width="100px"height="100px"  alt="Profile views"/>
+- You can Knonk Me At ( https://nayanhossain.netlify.app/)
 
 [![Yangshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanhossainbd&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
