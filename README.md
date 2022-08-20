@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Laravel and React 
 - 📫 How to reach me 
 - You can reach me at nayanhossainbd.786@gmail.com
+![](https://komarev.com/ghpvc/?username=nayanhossainbd&color=lightgrey)
 
 <!---
 nayanhossainbd/nayanhossainbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
